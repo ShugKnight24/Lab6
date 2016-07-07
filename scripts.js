@@ -1,6 +1,3 @@
-var temp;
-var tempType;
-
 // Temperature Converter
 function tempConvert(temp, tempType) {
 // Fahrenheit to Celsius
